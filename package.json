@@ -1,0 +1,18 @@
+{
+  "name": "manager-forward-call-example",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@portkey/contracts": "^2.5.0-alpha.4",
+    "dotenv": "^16.4.5",
+    "tsx": "^4.7.2"
+  }
+}
